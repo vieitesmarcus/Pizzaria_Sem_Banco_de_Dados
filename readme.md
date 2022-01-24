@@ -3,4 +3,4 @@
 
 ## Ainda não apliquei estilo nas paginas, mas irei deixar com um layout bonito e legal, por enquanto esta como as imagens abaixo: 
 
-![This is an image](tree/main/img-app/Menu.png)
+![This is an image](https://github.com/vieitesmarcus/Pizzaria_Sem_Banco_de_Dados/blob/main/img-app/Menu.PNG)
